@@ -1,0 +1,48 @@
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\bin\Debug\Calisthenics StreetWorkout APP.exe.config
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\bin\Debug\Calisthenics StreetWorkout APP.exe
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\bin\Debug\Calisthenics StreetWorkout APP.pdb
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\obj\Debug\Calisthenics StreetWorkout APP.csproj.AssemblyReference.cache
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\obj\Debug\Calisthenics StreetWorkout APP.csproj.SuggestedBindingRedirects.cache
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\obj\Debug\Calisthenics_StreetWorkout_APP.Form1.resources
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\obj\Debug\Calisthenics_StreetWorkout_APP.Properties.Resources.resources
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\obj\Debug\Calisthenics StreetWorkout APP.csproj.GenerateResource.cache
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\obj\Debug\Calisthenics StreetWorkout APP.csproj.CoreCompileInputs.cache
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\obj\Debug\Calisthenics StreetWorkout APP.exe
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\obj\Debug\Calisthenics StreetWorkout APP.pdb
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\obj\Debug\Calisthenics_StreetWorkout_APP.stretchingform.resources
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\obj\Debug\Calisthenics_StreetWorkout_APP.calisthenicsform.resources
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\obj\Debug\Calisthenics_StreetWorkout_APP.fitnessform.resources
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\obj\Debug\Calisthenics_StreetWorkout_APP.hiitworkoutform.resources
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\obj\Debug\Calisthenics_StreetWorkout_APP.settingsform.resources
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\obj\Debug\Calisthenics_StreetWorkout_APP.loginform.resources
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\obj\Debug\Calisthenics_StreetWorkout_APP.signinform.resources
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\obj\Debug\Calisthenics_StreetWorkout_APP.fullbodystrengthform.resources
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\obj\Debug\Calisthenics_StreetWorkout_APP.lowerbodystrenghtform.resources
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\obj\Debug\Calisthenics_StreetWorkout_APP.lowerbodystretching.resources
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\obj\Debug\Calisthenics_StreetWorkout_APP.upperbodystrengthform.resources
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\obj\Debug\Calisthenics_StreetWorkout_APP.jumpsquadform.resources
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\obj\Debug\Calisthenics_StreetWorkout_APP.pullupform.resources
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\obj\Debug\Calisthenics_StreetWorkout_APP.pushupform.resources
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\obj\Debug\Calisthenics_StreetWorkout_APP.handstandform.resources
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\obj\Debug\Calisthenics_StreetWorkout_APP.muscleupform.resources
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\obj\Debug\Calisthenics_StreetWorkout_APP.pistolsquatform.resources
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\obj\Debug\Calisthenics_StreetWorkout_APP.backleverform.resources
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\obj\Debug\Calisthenics_StreetWorkout_APP.frontleverform.resources
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\obj\Debug\Calisthenics_StreetWorkout_APP.plancheform.resources
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\obj\Debug\Calisthenics_StreetWorkout_APP.chestform.resources
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\obj\Debug\Calisthenics_StreetWorkout_APP.absform.resources
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\obj\Debug\Calisthenics_StreetWorkout_APP.armsform.resources
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\obj\Debug\Calisthenics_StreetWorkout_APP.backform.resources
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\obj\Debug\Calisthenics_StreetWorkout_APP.legsform.resources
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\obj\Debug\Calisthenics_StreetWorkout_APP.shouldersform.resources
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\obj\Debug\Calisthenics_StreetWorkout_APP.burpeeform.resources
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\obj\Debug\Calisthenics_StreetWorkout_APP.highkneesform.resources
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\obj\Debug\Calisthenics_StreetWorkout_APP.jumpingjacksform.resources
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\obj\Debug\Calisthenics_StreetWorkout_APP.jumpingropeform.resources
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\obj\Debug\Calisthenics_StreetWorkout_APP.mountainclimbersform.resources
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\obj\Debug\Calisthenics_StreetWorkout_APP.boxingform.resources
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\obj\Debug\Calisthenics_StreetWorkout_APP.foodsform.resources
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\obj\Debug\Calisthenics_StreetWorkout_APP.kettlebellform.resources
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\obj\Debug\Calisthenics_StreetWorkout_APP.resistanceform.resources
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\obj\Debug\Calisthenics_StreetWorkout_APP.centauri.resources
+C:\Users\egein\Desktop\Calisthenics StreetWorkout APP\Calisthenics StreetWorkout APP\obj\Debug\Calisthenics_StreetWorkout_APP.startfrom.resources

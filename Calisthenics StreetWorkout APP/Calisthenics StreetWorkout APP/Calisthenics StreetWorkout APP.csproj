@@ -1,0 +1,420 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{202490DD-A93D-40A2-87AE-28249140F94F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Calisthenics_StreetWorkout_APP</RootNamespace>
+    <AssemblyName>Calisthenics StreetWorkout APP</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="absform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="absform.Designer.cs">
+      <DependentUpon>absform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="armsform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="armsform.Designer.cs">
+      <DependentUpon>armsform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="avokado.cs" />
+    <Compile Include="backform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="backform.Designer.cs">
+      <DependentUpon>backform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="backleverform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="backleverform.Designer.cs">
+      <DependentUpon>backleverform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="besinler.cs" />
+    <Compile Include="boxingform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="boxingform.Designer.cs">
+      <DependentUpon>boxingform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="burpeeform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="burpeeform.Designer.cs">
+      <DependentUpon>burpeeform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="calisthenicsform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="calisthenicsform.Designer.cs">
+      <DependentUpon>calisthenicsform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="centauri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="centauri.Designer.cs">
+      <DependentUpon>centauri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="chestform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="chestform.Designer.cs">
+      <DependentUpon>chestform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class1.cs" />
+    <Compile Include="fitnessform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fitnessform.Designer.cs">
+      <DependentUpon>fitnessform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="foodsform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="foodsform.Designer.cs">
+      <DependentUpon>foodsform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frontleverform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frontleverform.Designer.cs">
+      <DependentUpon>frontleverform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fullbodystrengthform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fullbodystrengthform.Designer.cs">
+      <DependentUpon>fullbodystrengthform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="handstandform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="handstandform.Designer.cs">
+      <DependentUpon>handstandform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="highkneesform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="highkneesform.Designer.cs">
+      <DependentUpon>highkneesform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hiitworkoutform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hiitworkoutform.Designer.cs">
+      <DependentUpon>hiitworkoutform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="jumpingjacksform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="jumpingjacksform.Designer.cs">
+      <DependentUpon>jumpingjacksform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="jumpingropeform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="jumpingropeform.Designer.cs">
+      <DependentUpon>jumpingropeform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="jumpsquadform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="jumpsquadform.Designer.cs">
+      <DependentUpon>jumpsquadform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kettlebellform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kettlebellform.Designer.cs">
+      <DependentUpon>kettlebellform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="legsform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="legsform.Designer.cs">
+      <DependentUpon>legsform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="loginform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="loginform.Designer.cs">
+      <DependentUpon>loginform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lowerbodystrenghtform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lowerbodystrenghtform.Designer.cs">
+      <DependentUpon>lowerbodystrenghtform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lowerbodystretching.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lowerbodystretching.Designer.cs">
+      <DependentUpon>lowerbodystretching.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mountainclimbersform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mountainclimbersform.Designer.cs">
+      <DependentUpon>mountainclimbersform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="muscleupform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="muscleupform.Designer.cs">
+      <DependentUpon>muscleupform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pistolsquatform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pistolsquatform.Designer.cs">
+      <DependentUpon>pistolsquatform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="plancheform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="plancheform.Designer.cs">
+      <DependentUpon>plancheform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="pullupform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pullupform.Designer.cs">
+      <DependentUpon>pullupform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pushupform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pushupform.Designer.cs">
+      <DependentUpon>pushupform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="resistanceform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="resistanceform.Designer.cs">
+      <DependentUpon>resistanceform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="settingsform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="settingsform.Designer.cs">
+      <DependentUpon>settingsform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="shouldersform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="shouldersform.Designer.cs">
+      <DependentUpon>shouldersform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="signinform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="signinform.Designer.cs">
+      <DependentUpon>signinform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="startfrom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="startfrom.Designer.cs">
+      <DependentUpon>startfrom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="stretchingform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="stretchingform.Designer.cs">
+      <DependentUpon>stretchingform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="upperbodystrengthform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="upperbodystrengthform.Designer.cs">
+      <DependentUpon>upperbodystrengthform.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="absform.resx">
+      <DependentUpon>absform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="armsform.resx">
+      <DependentUpon>armsform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="backform.resx">
+      <DependentUpon>backform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="backleverform.resx">
+      <DependentUpon>backleverform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="boxingform.resx">
+      <DependentUpon>boxingform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="burpeeform.resx">
+      <DependentUpon>burpeeform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="calisthenicsform.resx">
+      <DependentUpon>calisthenicsform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="centauri.resx">
+      <DependentUpon>centauri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="chestform.resx">
+      <DependentUpon>chestform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fitnessform.resx">
+      <DependentUpon>fitnessform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="foodsform.resx">
+      <DependentUpon>foodsform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frontleverform.resx">
+      <DependentUpon>frontleverform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fullbodystrengthform.resx">
+      <DependentUpon>fullbodystrengthform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="handstandform.resx">
+      <DependentUpon>handstandform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="highkneesform.resx">
+      <DependentUpon>highkneesform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hiitworkoutform.resx">
+      <DependentUpon>hiitworkoutform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="jumpingjacksform.resx">
+      <DependentUpon>jumpingjacksform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="jumpingropeform.resx">
+      <DependentUpon>jumpingropeform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="jumpsquadform.resx">
+      <DependentUpon>jumpsquadform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kettlebellform.resx">
+      <DependentUpon>kettlebellform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="legsform.resx">
+      <DependentUpon>legsform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="loginform.resx">
+      <DependentUpon>loginform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lowerbodystrenghtform.resx">
+      <DependentUpon>lowerbodystrenghtform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lowerbodystretching.resx">
+      <DependentUpon>lowerbodystretching.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mountainclimbersform.resx">
+      <DependentUpon>mountainclimbersform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="muscleupform.resx">
+      <DependentUpon>muscleupform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pistolsquatform.resx">
+      <DependentUpon>pistolsquatform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="plancheform.resx">
+      <DependentUpon>plancheform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="pullupform.resx">
+      <DependentUpon>pullupform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pushupform.resx">
+      <DependentUpon>pushupform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="resistanceform.resx">
+      <DependentUpon>resistanceform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="settingsform.resx">
+      <DependentUpon>settingsform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="shouldersform.resx">
+      <DependentUpon>shouldersform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="signinform.resx">
+      <DependentUpon>signinform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="startfrom.resx">
+      <DependentUpon>startfrom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="stretchingform.resx">
+      <DependentUpon>stretchingform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="upperbodystrengthform.resx">
+      <DependentUpon>upperbodystrengthform.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
